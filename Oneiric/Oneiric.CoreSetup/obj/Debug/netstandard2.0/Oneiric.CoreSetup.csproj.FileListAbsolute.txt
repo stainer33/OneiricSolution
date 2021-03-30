@@ -1,0 +1,5 @@
+E:\ONEIRICSOLUTIONS\Oneiric.CoreSetup\bin\Debug\netstandard2.0\Oneiric.CoreSetup.deps.json
+E:\ONEIRICSOLUTIONS\Oneiric.CoreSetup\bin\Debug\netstandard2.0\Oneiric.CoreSetup.dll
+E:\ONEIRICSOLUTIONS\Oneiric.CoreSetup\obj\Debug\netstandard2.0\Oneiric.CoreSetup.csprojAssemblyReference.cache
+E:\ONEIRICSOLUTIONS\Oneiric.CoreSetup\obj\Debug\netstandard2.0\Oneiric.CoreSetup.AssemblyInfoInputs.cache
+E:\ONEIRICSOLUTIONS\Oneiric.CoreSetup\obj\Debug\netstandard2.0\Oneiric.CoreSetup.AssemblyInfo.cs

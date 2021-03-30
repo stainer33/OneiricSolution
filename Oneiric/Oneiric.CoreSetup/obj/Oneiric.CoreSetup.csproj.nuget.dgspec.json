@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ONEIRICSOLUTIONS\\Oneiric.CoreSetup\\Oneiric.CoreSetup.csproj": {}
+  },
+  "projects": {
+    "E:\\ONEIRICSOLUTIONS\\Oneiric.CoreSetup\\Oneiric.CoreSetup.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ONEIRICSOLUTIONS\\Oneiric.CoreSetup\\Oneiric.CoreSetup.csproj",
+        "projectName": "Oneiric.CoreSetup",
+        "projectPath": "E:\\ONEIRICSOLUTIONS\\Oneiric.CoreSetup\\Oneiric.CoreSetup.csproj",
+        "packagesPath": "C:\\Users\\sacha\\.nuget\\packages\\",
+        "outputPath": "E:\\ONEIRICSOLUTIONS\\Oneiric.CoreSetup\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sacha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "HtmlSanitizer": {
+              "target": "Package",
+              "version": "[5.0.376, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.DataProtection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.MSSqlServer": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
